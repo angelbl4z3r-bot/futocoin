@@ -1,0 +1,11 @@
+{
+  "name": "FUTOCOIN",
+  "symbol": "FTO",
+  "description": "The official student coin of FUTO Blockchain Club — built on Solana (Devnet).",
+  "image": "https://raw.githubusercontent.com/angelbl4z3r-bot/futocoin/main/logo.png",
+  "attributes": [
+    {"trait_type": "Community", "value": "FUTO Blockchain Club"},
+    {"trait_type": "Origin", "value": "Owerri, Nigeria"},
+    {"trait_type": "Chain", "value": "Solana"}
+  ]
+}
